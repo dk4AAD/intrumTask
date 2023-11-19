@@ -1,0 +1,5 @@
+scheduler:
+  cron:
+data:
+  upload:
+    api: http://intrum.mocklab.io/payout
